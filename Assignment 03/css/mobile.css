@@ -1,0 +1,27 @@
+@media (max-width: 768px) {
+  .avatar {
+    display: none;
+  }
+  #nav-bar .col-avatar {
+    display: none;
+  }
+  #nav-bar .col-md {
+    text-align: start;
+    border: none;
+  }
+  #nav-bar .row {
+    border: none;
+  }
+  .certificate-2 {
+    border-left: none;
+  }
+  .project-content .icon-user-1 {
+    padding-left: 30px;
+  }
+  .position {
+    padding-left: 30px;
+  }
+  .footer-text {
+    display: none;
+  }
+}

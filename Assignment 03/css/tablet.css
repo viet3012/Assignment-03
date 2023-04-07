@@ -1,0 +1,28 @@
+@media (min-width: 768px) and (max-width: 992px) {
+  .avatar {
+    display: none;
+  }
+  #nav-bar .container-nav {
+    margin: 0 80px;
+  }
+  #target,
+  #personal-info {
+    padding: 50px 50px;
+  }
+  .certificate-content {
+    flex-direction: column;
+  }
+  .certificate-content .img-cer {
+    width: 300px;
+  }
+  #project .title {
+    height: 80px;
+  }
+  .position {
+    padding-left: 80px;
+    padding-bottom: 10px;
+  }
+  table {
+    height: 300px;
+  }
+}
